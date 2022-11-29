@@ -10,7 +10,7 @@ const Dashboard = () => {
 
     <thead>
       <tr>
-        <th></th>
+        {/* <th></th> */}
         <th>Name</th>
         <th>Gmail</th>
         <th>model name</th>
