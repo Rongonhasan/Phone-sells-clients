@@ -25,9 +25,9 @@ const Blog = () => {
                     How does prototypical inheritance work?
                 </div>
                 <div className="collapse-content">
-                    <p>
+                    {/* <p>
                         Every object with its methods and properties contains an internal and hidden property known as Prototype. The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the Prototype of an object, we use Object.getPrototypeOf and Object.setPrototypeOf. Nowadays, in modern language, it is being set using
-                    </p>
+                    </p> */}
                 </div>
             </div>
             <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box">
