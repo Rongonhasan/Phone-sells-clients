@@ -7,6 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+1. mobile sell
+2. server code : https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-Rongonhasan
+3. client code : https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Rongonhasan
+4. fire base
+5. versel deploy
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
